@@ -1,3 +1,13 @@
+/*
+ * Project: A Deterministic User-Space NVMe Driver
+ * Author: Guillaume Wantiez 
+ * License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+ * 
+ * You are free to use, modify, and distribute this software as long as 
+ * the original author is credited.
+*/
+
+
 #include <err.h>
 #include <errno.h>
 #include <stdint.h>
